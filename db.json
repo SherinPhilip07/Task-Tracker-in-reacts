@@ -1,0 +1,28 @@
+{
+  "task": [
+    {
+      "id": 1,
+      "text": "Study",
+      "time": "July 17th at 5pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Work",
+      "time": "July 18th at 1pm",
+      "reminder": true
+    },
+    {
+      "text": "Workout",
+      "time": "12 pm",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Workout",
+      "time": "9 pm",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
